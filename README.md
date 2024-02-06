@@ -1,1 +1,1 @@
-echo "# BS-Server" 
+BS-Server Synced PlayerBlockList [RID]
